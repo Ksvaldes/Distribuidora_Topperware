@@ -7,5 +7,3 @@ En la segundo parte se encuentran datos relacionados a las ventas, es decir los 
 
 Este programa ayudará a la empresa a llevar un mejor control sobre su ingresos y egresos, lealtad de clientes, entre otros datos.
 
-
-https://github.com/Ksvaldes/Distribuidora_Tupperware
